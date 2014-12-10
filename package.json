@@ -1,0 +1,21 @@
+{
+  "name": "QUnit-PG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "broccoli": "^0.13.3",
+    "broccoli-6to5-transpiler": "^0.1.1",
+    "broccoli-static-compiler": "^0.2.1"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "JS-Testing-Template",
+  "version": "0.0.1",
+  "description": "JS testing using testem",
+  "keywords": [
+    "testing"
+  ],
+  "authors": [
+    "mko_io"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.16.0"
+  }
+}

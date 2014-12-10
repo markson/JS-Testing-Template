@@ -1,0 +1,11 @@
+{
+	"launch_in_dev": [
+		"phantomjs"
+	],
+	"framework": "qunit",
+	"src_files": [
+		 "http://localhost:4200/appKit/bar.js",
+		"tests/**/*.js"
+
+	]
+}
